@@ -1,0 +1,77 @@
+body{
+    padding-top: 128px;
+    padding-left: 125px;
+    }
+h1{
+     font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 60px;
+    line-height: 60px;
+    letter-spacing: -0.03em;
+    color: #121212;
+    width: 956px;
+    height: 120px;
+    padding-bottom: 30px;
+    }
+.top{
+    width: 1150px;
+    height: 500px;
+    background-image: url(../resources/Rectangle\ 1.png);
+    background-repeat: no-repeat;
+    }
+.top-text{
+    width: 430px;
+    height: 81px;
+    font-family: Manrope;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 27px;
+    letter-spacing: -0.03em;
+    text-align: left;
+    color: #FFFFFF;
+    padding-top:379px;
+    padding-left: 40px;
+    padding-bottom: 40px;
+    }
+h2{
+    padding-top: 150px;
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 25px;
+    letter-spacing: -0.03em;
+    text-transform: uppercase;
+    }
+.text-preview{
+    padding-top: 30px;
+    width: 1048px;
+    height: 368px;
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 45px;
+    line-height: 61px;
+    letter-spacing: -0.03em;
+    color: #121212;
+    margin-bottom: 30px
+    }
+.link{
+    width: 255px;
+    height: 67px;
+    background: #AD1818;
+    border-radius: 5px;
+    }
+.link a{
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 27px;
+    letter-spacing: -0.03em;
+    color: #FFFFFF;
+    position: absolute;
+    margin: 20px 40px;
+    text-decoration: none;
+        }
