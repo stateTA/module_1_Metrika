@@ -61,6 +61,7 @@ h2 {
   margin-left: 125px;
   background: #ad1818;
   border-radius: 5px;
+  display: block;
 }
 .link a {
   margin-left: 125px;
@@ -71,6 +72,7 @@ h2 {
   position: absolute;
   margin: 20px 40px;
   text-decoration: none;
+  display: block;
 }
 h3 {
   margin-top: 150px;
